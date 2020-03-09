@@ -11,6 +11,7 @@ Cuentas para pruebas:
 "admin@routebook.com"            contraseña: 1234                   
 "victor.gallardo@routebook.com"  contraseña: 1234
 ```
+**Video explicativo youtube:** https://www.youtube.com/watch?v=G0KQ8WiFRAg
 
 ## BASE DE DATOS creada con **Workbench**
 
