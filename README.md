@@ -1,5 +1,5 @@
-#ROUTEBOOK CLIMB
+# ROUTEBOOK CLIMB
 Aplicación Web para registrar y almacenar todas tus vías de escalada, ya sean proyectos o encadenes.
 
 
-![](screenshots/logo2.png)
+![](screenshots/logo%202.png)
