@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+
+/*  NAVBAR */
+
+.navbar-brand {
+    font-family: 'Homemade Apple', !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.nav-area {
+    background-color: #1d1d1fea;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+nav {
+    top: 0;
+    z-index: 99;
+}
+
+.body {
+    background-color: black;
+}
+
+
+/*  JUMBOTRON */
+
+.jumbotron {
+    height: 100vh;
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbo-content {
+    margin-top: 200px;
+}.panel {
+
+}

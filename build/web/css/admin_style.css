@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+
+/*  NAVBAR */
+
+.navbar-brand {
+    font-family: 'Homemade Apple', !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.nav-area {
+    background-color: #1d1d1f;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+nav {
+    top: 0;
+    z-index: 99;
+}
+
+.forms {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.jumbotron {
+    height: 40vh;
+    background-image: url(../img/bg-4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.title h2 {
+    margin-left: 1120px;
+}
