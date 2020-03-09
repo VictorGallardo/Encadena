@@ -15,9 +15,6 @@
 
         <%
 
-            if (session.getAttribute("Email") != null) {
-                response.sendRedirect("index.jsp");
-            }
             request.setCharacterEncoding("UTF-8");
             Class.forName("com.mysql.jdbc.Driver");
             Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/routebook", "root", "");
